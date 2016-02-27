@@ -1,4 +1,13 @@
-/* main plugin file that will enqeue on theme's functions.php*/
+<?php 
+    /*
+    Plugin Name: Header Footer Analytics
+    Plugin URI: http://thedevelopersite.com
+    Description: Add scripts or any code to header area and footer
+    Author: Jowett Isaiah Go  
+    Version: 1.0
+    Author URI: http://www.thedevelopersite.com
+    */
+?>
 
 
 
